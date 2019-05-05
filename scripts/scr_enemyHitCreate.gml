@@ -1,0 +1,11 @@
+///scr_enemyHitCreate();
+hp = 10;
+maxHp = hp;
+iFrames = 0;
+stunFrames = 0;
+xVel = 0;
+yVel = 0;
+stunSprite = spr_guard_hurt;
+stunSpriteRemember = spr_guard_stand;
+dying = 0;
+deathTimer = 0;
